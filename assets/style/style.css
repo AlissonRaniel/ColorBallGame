@@ -1,0 +1,25 @@
+.box
+	{
+		float: left;
+		width: 50px;
+		height: 50px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+        border-radius: 100%;
+	}
+	.ui-progressbar 
+	{
+		position: relative;
+	}
+	.progress-label 
+	{
+		position: absolute;
+		left: 50%;
+		top: 4px;
+		font-weight: bold;
+		text-shadow: 1px 1px 0 #fff;
+	}
+	#corpo
+	{
+		margin: 0 auto;
+	}
